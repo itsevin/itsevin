@@ -23,7 +23,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-&nbsp; <a href="tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=2720269770" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/qq.png" alt="QQ" width="50"/></a>
+&nbsp; <a href="https://qq.sevin.cn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/qq.png" alt="QQ" width="50"/></a>
 &nbsp; <a href="https://t.me/CNSevin" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" alt="Telegram" width="50"/></a>
 &nbsp; <a href="mailto:itsevin@qq.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
