@@ -16,10 +16,6 @@
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
 
-<br/>
-
-![Contribute](https://github-readme-activity-graph.cyclic.app/graph?username=itsevin&theme=github)
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
