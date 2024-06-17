@@ -4,10 +4,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsevin&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
 
-- 🔭 A Chinese Senior High School Student & A Program Fan
+- 🔭 A Student & A Program Fan
 - 🎓 I’m currently learning: QQ Bot, Web, Artificial Intelligence
 - 💬 Ask me about: [Sister_bot](https://github.com/itsevin/sister_bot)
-- 🌱 Sincerely looking for high school friends from all over the world. Please email me to get in touch.
+- 🌱 Sincerely looking for friends from all over the world. Please email me to get in touch.
 - 🔗 See my homepage for more info: [sevin.cn](https://sevin.cn)
 
 🌟 **My Skills**  
