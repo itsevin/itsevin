@@ -11,7 +11,7 @@
 - 🔗 See my homepage for more info: [sevin.cn](https://sevin.cn)
 
 🌟 **My Skills**  
-🌟 **My Skills**  
+
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
