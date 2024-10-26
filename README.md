@@ -4,15 +4,17 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsevin&count_private=true&show_icons=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
 </a>
 
-- 🔭 A Student & A Program Fan
-- 🎓 I’m currently learning: QQ Bot, Web, Artificial Intelligence
+- 🔭 An Undergraduate Student & A Program Fan
+- 🎓 I’m currently learning: ACM, Artificial Intelligence
 - 💬 Ask me about: [Sister_bot](https://github.com/itsevin/sister_bot)
 - 🌱 Sincerely looking for friends from all over the world. Please email me to get in touch.
 - 🔗 See my homepage for more info: [sevin.cn](https://sevin.cn)
 
 🌟 **My Skills**  
+🌟 **My Skills**  
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=fff)
+![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
+![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
 
