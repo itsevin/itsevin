@@ -5,7 +5,7 @@
 </a>
 
 - 🔭 An Undergraduate Student & A Program Fan
-- 🎓 I’m currently learning: ACM, Artificial Intelligence
+- 🎓 I’m currently learning: ACM, AIGC
 - 💬 Ask me about: [Sister_bot](https://github.com/itsevin/sister_bot)
 - 🌱 Sincerely looking for friends from all over the world. Please email me to get in touch.
 - 🔗 See my homepage for more info: [sevin.cn](https://sevin.cn)
@@ -15,6 +15,7 @@
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=fff)
+![](https://img.shields.io/badge/-AIGC-4B8BBE?style=flat-square&logo=OpenAI&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=fff)
 
