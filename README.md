@@ -5,7 +5,7 @@
 </a>
 
 - 🔭 An Undergraduate Student & A Program Fan
-- 🎓 I’m currently learning: ACM, AIGC
+- 🎓 I’m currently learning: ACM, AIGC, DeepLearing
 - 💬 Ask me about: [Sister_bot](https://github.com/itsevin/sister_bot)
 - 🌱 Sincerely looking for friends from all over the world. Please email me to get in touch.
 - 🔗 See my homepage for more info: [sevin.cn](https://sevin.cn)
